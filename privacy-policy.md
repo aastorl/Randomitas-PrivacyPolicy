@@ -1,17 +1,17 @@
-# Política de Privacidad de Randomitas
+# Privacy Policy for Randomitas
 
-**Última actualización: 23 de marzo de 2026**
+**Last updated: March 23, 2026**
 
-Astor Ludueña ha construido la aplicación Randomitas como una aplicación comercial. Este servicio se proporciona tal cual está.
+Astor Ludueña built the Randomitas app as a Commercial app. This SERVICE is provided by us and is intended for use as is.
 
-**Recopilación y Uso de Datos**
-Randomitas fue diseñada priorizando tu privacidad. **No recogemos, almacenamos ni transmitimos ningún tipo de dato personal**. Toda la información (carpetas, imágenes, historial) se guarda localmente en la memoria de tu dispositivo utilizando Core Data y Apple's FileManager.
+**Information Collection and Use**
+Randomitas was built with your privacy in mind. **We do not collect, store, or transmit any sensitive personal data.** All data (including folders, items, images, and history) is stored locally on your device's memory using Core Data and Apple's file system.
 
-**Cámara y Galería de Fotos**
-La aplicación requiere acceso a tu cámara y biblioteca de fotos de Apple exclusivamente para permitirte asociar imágenes a tus carpetas y elementos. Estas imágenes jamás abandonan tu dispositivo.
+**Camera and Photo Library**
+The application requires access to your camera and photo library exclusively to allow you to attach images to your folders and items. These images never leave your device.
 
-**Cambios en esta Política**
-Podemos actualizar nuestra Política de Privacidad de vez en cuando. Te sugerimos revisar esta página periódicamente para ver cualquier cambio.
+**Changes to This Privacy Policy**
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-**Contacto**
-Si tienes preguntas o sugerencias sobre nuestra Política de Privacidad, no dudes en escribir a **[aastorl79@gmail.com]**.
+**Contact Us**
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: **[aastorl79@gmail.com]**.
